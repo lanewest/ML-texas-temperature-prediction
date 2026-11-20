@@ -1,0 +1,575 @@
+{
+  "audit": {
+    "source_rows": 5410145,
+    "stations": 507,
+    "duplicate_station_dates": 0,
+    "valid_temperature_values": 10740949,
+    "missing_temperature_values": {
+      "TMIN": 53381,
+      "TMAX": 25960
+    },
+    "station_days_with_tmin_above_tmax": 0,
+    "forecast_examples": 5340890,
+    "examples_with_persistence_input": 5322594
+  },
+  "annual_coverage": [
+    {
+      "year": 1950,
+      "station_days": 50040,
+      "stations": 149,
+      "valid_tmin": 49553,
+      "valid_tmax": 49856
+    },
+    {
+      "year": 1951,
+      "station_days": 51303,
+      "stations": 151,
+      "valid_tmin": 50765,
+      "valid_tmax": 50941
+    },
+    {
+      "year": 1952,
+      "station_days": 52396,
+      "stations": 155,
+      "valid_tmin": 51979,
+      "valid_tmax": 51915
+    },
+    {
+      "year": 1953,
+      "station_days": 55782,
+      "stations": 165,
+      "valid_tmin": 55165,
+      "valid_tmax": 55433
+    },
+    {
+      "year": 1954,
+      "station_days": 58036,
+      "stations": 170,
+      "valid_tmin": 57589,
+      "valid_tmax": 57699
+    },
+    {
+      "year": 1955,
+      "station_days": 59363,
+      "stations": 169,
+      "valid_tmin": 58986,
+      "valid_tmax": 59046
+    },
+    {
+      "year": 1956,
+      "station_days": 59206,
+      "stations": 172,
+      "valid_tmin": 58727,
+      "valid_tmax": 58986
+    },
+    {
+      "year": 1957,
+      "station_days": 60904,
+      "stations": 174,
+      "valid_tmin": 60437,
+      "valid_tmax": 60599
+    },
+    {
+      "year": 1958,
+      "station_days": 59596,
+      "stations": 170,
+      "valid_tmin": 59261,
+      "valid_tmax": 59360
+    },
+    {
+      "year": 1959,
+      "station_days": 60039,
+      "stations": 169,
+      "valid_tmin": 59804,
+      "valid_tmax": 59600
+    },
+    {
+      "year": 1960,
+      "station_days": 59988,
+      "stations": 174,
+      "valid_tmin": 59689,
+      "valid_tmax": 59736
+    },
+    {
+      "year": 1961,
+      "station_days": 60853,
+      "stations": 172,
+      "valid_tmin": 60518,
+      "valid_tmax": 60547
+    },
+    {
+      "year": 1962,
+      "station_days": 65597,
+      "stations": 189,
+      "valid_tmin": 65113,
+      "valid_tmax": 65312
+    },
+    {
+      "year": 1963,
+      "station_days": 68520,
+      "stations": 208,
+      "valid_tmin": 68320,
+      "valid_tmax": 68360
+    },
+    {
+      "year": 1964,
+      "station_days": 69741,
+      "stations": 207,
+      "valid_tmin": 69465,
+      "valid_tmax": 69441
+    },
+    {
+      "year": 1965,
+      "station_days": 71801,
+      "stations": 211,
+      "valid_tmin": 71446,
+      "valid_tmax": 71580
+    },
+    {
+      "year": 1966,
+      "station_days": 72103,
+      "stations": 210,
+      "valid_tmin": 71698,
+      "valid_tmax": 71662
+    },
+    {
+      "year": 1967,
+      "station_days": 71498,
+      "stations": 201,
+      "valid_tmin": 71045,
+      "valid_tmax": 71111
+    },
+    {
+      "year": 1968,
+      "station_days": 71799,
+      "stations": 203,
+      "valid_tmin": 71490,
+      "valid_tmax": 71540
+    },
+    {
+      "year": 1969,
+      "station_days": 72692,
+      "stations": 207,
+      "valid_tmin": 72305,
+      "valid_tmax": 72469
+    },
+    {
+      "year": 1970,
+      "station_days": 73061,
+      "stations": 211,
+      "valid_tmin": 72615,
+      "valid_tmax": 72814
+    },
+    {
+      "year": 1971,
+      "station_days": 69346,
+      "stations": 197,
+      "valid_tmin": 69195,
+      "valid_tmax": 69188
+    },
+    {
+      "year": 1972,
+      "station_days": 68359,
+      "stations": 197,
+      "valid_tmin": 68173,
+      "valid_tmax": 68169
+    },
+    {
+      "year": 1973,
+      "station_days": 64994,
+      "stations": 192,
+      "valid_tmin": 64792,
+      "valid_tmax": 64647
+    },
+    {
+      "year": 1974,
+      "station_days": 65006,
+      "stations": 188,
+      "valid_tmin": 64460,
+      "valid_tmax": 64664
+    },
+    {
+      "year": 1975,
+      "station_days": 63114,
+      "stations": 192,
+      "valid_tmin": 62741,
+      "valid_tmax": 62906
+    },
+    {
+      "year": 1976,
+      "station_days": 63167,
+      "stations": 181,
+      "valid_tmin": 62820,
+      "valid_tmax": 62895
+    },
+    {
+      "year": 1977,
+      "station_days": 63631,
+      "stations": 181,
+      "valid_tmin": 63169,
+      "valid_tmax": 63316
+    },
+    {
+      "year": 1978,
+      "station_days": 63115,
+      "stations": 185,
+      "valid_tmin": 62721,
+      "valid_tmax": 62730
+    },
+    {
+      "year": 1979,
+      "station_days": 62453,
+      "stations": 183,
+      "valid_tmin": 61942,
+      "valid_tmax": 62075
+    },
+    {
+      "year": 1980,
+      "station_days": 63082,
+      "stations": 186,
+      "valid_tmin": 62530,
+      "valid_tmax": 62564
+    },
+    {
+      "year": 1981,
+      "station_days": 61786,
+      "stations": 177,
+      "valid_tmin": 61393,
+      "valid_tmax": 61445
+    },
+    {
+      "year": 1982,
+      "station_days": 61683,
+      "stations": 175,
+      "valid_tmin": 60443,
+      "valid_tmax": 60990
+    },
+    {
+      "year": 1983,
+      "station_days": 61940,
+      "stations": 174,
+      "valid_tmin": 60606,
+      "valid_tmax": 61400
+    },
+    {
+      "year": 1984,
+      "station_days": 61077,
+      "stations": 173,
+      "valid_tmin": 59677,
+      "valid_tmax": 60701
+    },
+    {
+      "year": 1985,
+      "station_days": 61134,
+      "stations": 174,
+      "valid_tmin": 59897,
+      "valid_tmax": 60622
+    },
+    {
+      "year": 1986,
+      "station_days": 61885,
+      "stations": 174,
+      "valid_tmin": 60798,
+      "valid_tmax": 61441
+    },
+    {
+      "year": 1987,
+      "station_days": 61046,
+      "stations": 172,
+      "valid_tmin": 59893,
+      "valid_tmax": 60653
+    },
+    {
+      "year": 1988,
+      "station_days": 61890,
+      "stations": 173,
+      "valid_tmin": 60886,
+      "valid_tmax": 61499
+    },
+    {
+      "year": 1989,
+      "station_days": 63169,
+      "stations": 178,
+      "valid_tmin": 62440,
+      "valid_tmax": 62758
+    },
+    {
+      "year": 1990,
+      "station_days": 63156,
+      "stations": 180,
+      "valid_tmin": 62551,
+      "valid_tmax": 62811
+    },
+    {
+      "year": 1991,
+      "station_days": 62944,
+      "stations": 178,
+      "valid_tmin": 62168,
+      "valid_tmax": 62555
+    },
+    {
+      "year": 1992,
+      "station_days": 63223,
+      "stations": 177,
+      "valid_tmin": 62352,
+      "valid_tmax": 62850
+    },
+    {
+      "year": 1993,
+      "station_days": 63292,
+      "stations": 179,
+      "valid_tmin": 62345,
+      "valid_tmax": 62664
+    },
+    {
+      "year": 1994,
+      "station_days": 63291,
+      "stations": 181,
+      "valid_tmin": 61972,
+      "valid_tmax": 62732
+    },
+    {
+      "year": 1995,
+      "station_days": 63990,
+      "stations": 187,
+      "valid_tmin": 62656,
+      "valid_tmax": 63485
+    },
+    {
+      "year": 1996,
+      "station_days": 66151,
+      "stations": 189,
+      "valid_tmin": 64635,
+      "valid_tmax": 65574
+    },
+    {
+      "year": 1997,
+      "station_days": 68518,
+      "stations": 201,
+      "valid_tmin": 66897,
+      "valid_tmax": 67683
+    },
+    {
+      "year": 1998,
+      "station_days": 72477,
+      "stations": 210,
+      "valid_tmin": 70956,
+      "valid_tmax": 71902
+    },
+    {
+      "year": 1999,
+      "station_days": 74239,
+      "stations": 217,
+      "valid_tmin": 72597,
+      "valid_tmax": 73717
+    },
+    {
+      "year": 2000,
+      "station_days": 76620,
+      "stations": 229,
+      "valid_tmin": 74995,
+      "valid_tmax": 76004
+    },
+    {
+      "year": 2001,
+      "station_days": 80238,
+      "stations": 237,
+      "valid_tmin": 78776,
+      "valid_tmax": 79669
+    },
+    {
+      "year": 2002,
+      "station_days": 84326,
+      "stations": 250,
+      "valid_tmin": 82508,
+      "valid_tmax": 83695
+    },
+    {
+      "year": 2003,
+      "station_days": 87283,
+      "stations": 261,
+      "valid_tmin": 85028,
+      "valid_tmax": 86661
+    },
+    {
+      "year": 2004,
+      "station_days": 87282,
+      "stations": 261,
+      "valid_tmin": 85650,
+      "valid_tmax": 86792
+    },
+    {
+      "year": 2005,
+      "station_days": 87051,
+      "stations": 265,
+      "valid_tmin": 85745,
+      "valid_tmax": 86712
+    },
+    {
+      "year": 2006,
+      "station_days": 90145,
+      "stations": 263,
+      "valid_tmin": 88746,
+      "valid_tmax": 89802
+    },
+    {
+      "year": 2007,
+      "station_days": 88614,
+      "stations": 260,
+      "valid_tmin": 87552,
+      "valid_tmax": 88267
+    },
+    {
+      "year": 2008,
+      "station_days": 88794,
+      "stations": 257,
+      "valid_tmin": 87877,
+      "valid_tmax": 88429
+    },
+    {
+      "year": 2009,
+      "station_days": 89402,
+      "stations": 261,
+      "valid_tmin": 88725,
+      "valid_tmax": 89198
+    },
+    {
+      "year": 2010,
+      "station_days": 89513,
+      "stations": 261,
+      "valid_tmin": 88837,
+      "valid_tmax": 89236
+    },
+    {
+      "year": 2011,
+      "station_days": 91451,
+      "stations": 279,
+      "valid_tmin": 90810,
+      "valid_tmax": 91284
+    },
+    {
+      "year": 2012,
+      "station_days": 94338,
+      "stations": 275,
+      "valid_tmin": 93841,
+      "valid_tmax": 94131
+    },
+    {
+      "year": 2013,
+      "station_days": 91456,
+      "stations": 270,
+      "valid_tmin": 91163,
+      "valid_tmax": 91284
+    },
+    {
+      "year": 2014,
+      "station_days": 88440,
+      "stations": 261,
+      "valid_tmin": 88066,
+      "valid_tmax": 88280
+    },
+    {
+      "year": 2015,
+      "station_days": 86512,
+      "stations": 251,
+      "valid_tmin": 86168,
+      "valid_tmax": 86304
+    },
+    {
+      "year": 2016,
+      "station_days": 85974,
+      "stations": 250,
+      "valid_tmin": 85634,
+      "valid_tmax": 85868
+    },
+    {
+      "year": 2017,
+      "station_days": 85518,
+      "stations": 251,
+      "valid_tmin": 85227,
+      "valid_tmax": 85375
+    },
+    {
+      "year": 2018,
+      "station_days": 86382,
+      "stations": 252,
+      "valid_tmin": 85905,
+      "valid_tmax": 86232
+    },
+    {
+      "year": 2019,
+      "station_days": 85182,
+      "stations": 251,
+      "valid_tmin": 84952,
+      "valid_tmax": 85015
+    },
+    {
+      "year": 2020,
+      "station_days": 80811,
+      "stations": 241,
+      "valid_tmin": 80642,
+      "valid_tmax": 80685
+    },
+    {
+      "year": 2021,
+      "station_days": 78065,
+      "stations": 232,
+      "valid_tmin": 77867,
+      "valid_tmax": 77984
+    },
+    {
+      "year": 2022,
+      "station_days": 81863,
+      "stations": 242,
+      "valid_tmin": 81556,
+      "valid_tmax": 81674
+    },
+    {
+      "year": 2023,
+      "station_days": 81864,
+      "stations": 239,
+      "valid_tmin": 81617,
+      "valid_tmax": 81703
+    },
+    {
+      "year": 2024,
+      "station_days": 78520,
+      "stations": 230,
+      "valid_tmin": 78361,
+      "valid_tmax": 78404
+    },
+    {
+      "year": 2025,
+      "station_days": 77025,
+      "stations": 226,
+      "valid_tmin": 76841,
+      "valid_tmax": 76854
+    }
+  ],
+  "validation": [
+    {
+      "validation_years": "2000\u20132004",
+      "latest_training_target": "1999-12-30",
+      "first_validation_issue_date": "1999-12-31",
+      "eligible_validation_rows": 407895,
+      "scored_rows": 405358,
+      "persistence_mae_c": 2.59111
+    },
+    {
+      "validation_years": "2005\u20132009",
+      "latest_training_target": "2004-12-30",
+      "first_validation_issue_date": "2004-12-31",
+      "eligible_validation_rows": 436492,
+      "scored_rows": 435274,
+      "persistence_mae_c": 2.71761
+    },
+    {
+      "validation_years": "2010\u20132015",
+      "latest_training_target": "2009-12-30",
+      "first_validation_issue_date": "2009-12-31",
+      "eligible_validation_rows": 534531,
+      "scored_rows": 533655,
+      "persistence_mae_c": 2.70664
+    }
+  ]
+}
