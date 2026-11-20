@@ -233,9 +233,9 @@ data/
 .DS_Store
 .env.*
 
-# Local Spec Kit and agent files
 /.specify/
 /.agents/
+specs/
 
 ProjectProposal.md
 ProjectSpecifications.md
