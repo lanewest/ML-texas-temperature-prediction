@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NOAA data and generated forecasting artifacts
+data/
+*.csv.gz
+*.parquet
+*.joblib
+*.pkl
+*.part
+*.tmp
+.DS_Store
+.env.*
+
+# Local Spec Kit and agent files
+/.specify/
+/.agents/
+
+ProjectProposal.md
+ProjectSpecifications.md
